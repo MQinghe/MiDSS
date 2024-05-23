@@ -35,9 +35,10 @@ python train.py --dataset ... --lb_domain ... --lb_num ... --save_name ... --gpu
 
 To run the evaluation code, please update the path of the dataset in `test.py`:
 
+Modify the paths in lines 249 to 254 of the code.
 
 then simply run:
 
 ```
-python test.py --dataset ... --gpu 0
+python test.py --dataset ... --save_name ... --gpu 0
 ```
