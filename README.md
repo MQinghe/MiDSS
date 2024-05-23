@@ -25,3 +25,19 @@ elif args.dataset == 'MNMS':
     train_data_path="../../data/MNMS/mnms" # the folder of mnms dataset
 ```
 
+then simply run:
+
+```python
+python train.py --dataset ... --lb_domain ... --lb_num ... --save_name ... --gpu 0
+```
+
+### 4. Test
+
+To run the evaluation code, please update the path of the dataset in `test.py`:
+
+
+then simply run:
+
+```
+python test.py --dataset ... --gpu 0
+```
