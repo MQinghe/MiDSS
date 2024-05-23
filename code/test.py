@@ -239,7 +239,7 @@ def main(args, snapshot_path):
 
     if args.eval:
         args.lb_domain = 1
-        model.load_state_dict(torch.load('./unet_avg_dice_best_model.pth'.format(args.dataset)))
+        model.load_state_dict(torch.load('../model/{}/{}/unet_avg_dice_best_model.pth'.format(args.dataset, args.save_name)))
         test(args, model,test_dataloader,args.lb_domain)
         exit()
 
