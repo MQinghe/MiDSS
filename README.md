@@ -42,3 +42,9 @@ then simply run:
 ```
 python test.py --dataset ... --save_name ... --gpu 0
 ```
+
+### 5. Acknowledgement
+
+This project is based on the code from the [SSL4MIS](https://github.com/HiLab-git/SSL4MIS) project.
+
+Thanks a lot for their great works.
