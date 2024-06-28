@@ -12,7 +12,7 @@ The dataset needs to be divided into two folders for training and testing. The t
 
 `code/train.py` is the implementation of our method on the Prostate and Fundus dataset.
 
-code/train_MNMS is the implementation of our method on the M&Ms dataset.
+`code/train_MNMS.py` is the implementation of our method on the M&Ms dataset.
 
 Modify the paths in lines 631 to 636 of the code.
 
