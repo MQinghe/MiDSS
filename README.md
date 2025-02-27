@@ -3,6 +3,7 @@
 ### 1. Introduction
 
 This repository contains the implementation of the paper **Constructing and Exploring Intermediate Domains in Mixed Domain Semi-supervised Medical Image Segmentation**
+> *In Conference on Computer Vision and Pattern Recognition (CVPR), 2024*
 
 ### 2. Dataset Construction
 
