@@ -50,7 +50,7 @@ python test.py --dataset ... --save_name ... --gpu 0
 
 [Fundus](https://drive.google.com/file/d/1p33nsWQaiZMAgsruDoJLyatoq5XAH-TH/view)
 
-[M&Ms Dataset](https://pan.baidu.com/s/1EG1RTIHcJmuzApd8_jvL6w) with the extraction code: cdbs
+[M&Ms](https://pan.baidu.com/s/1EG1RTIHcJmuzApd8_jvL6w) with the extraction code: cdbs
 
 The Prostate and M&Ms datasets have undergone preprocessing in our work, with the original data sourced from [Prostate](https://liuquande.github.io/SAML/) and [M&Ms](https://www.ub.edu/mnms/) 
 
